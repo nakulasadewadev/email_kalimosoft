@@ -1,3 +1,12 @@
+## Penggunaan
+- . Buka File .env (Jika tidak ada , maka Copy Paste File .env.example dan rename menjadi .env) 
+- . Sesuaikan DB di file .env 
+- . Buka File email_kalimosoft/app/Mail/TagihanInet
+- . Ubah Email "jeggong@gmail.com" sesuai dengan email yang akan dipergunakan untuk kirim email tagihan ke pelanggan.
+- . Save Perubahan File
+- . Menggunakan linux , akses aplikasi email_kalimosoft melalui command line dan jalankan contrab -e
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
